@@ -9,7 +9,7 @@ The website is based on **Codeigniter** (An opensource PhP framework available @
 For user authentication following were used:
 
  1. Ben Edmunds - IonAuth (Available @ https://github.com/benedmunds/CodeIgniter-Ion-Auth)
- 2. Facebook SDK for PhP (Available @ https://developers.facebook.com/docs/reference/php/)
+ 2. Facebook SDK for PhP (Available @ https://github.com/facebook/php-graph-sdk)
  3. Google-api-php-client (Available @ https://github.com/google/google-api-php-client)
 
 `database.sql` file contains all the database file.
