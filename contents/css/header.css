@@ -1,0 +1,24 @@
+.header1{position:fixed;background:#000;top:0;left:0;width:100% !important;padding:10px !important;z-index:999 !important}
+.header1 #inner-header{width:100%}
+#logo{width:51px;height:21px;display:block;float:left}
+#logo img{max-width:30px;height:25px}
+#logo:hover{opacity:0.9}
+.footer{clear:both;background:#000}
+.footer #inner-footer{padding:15px 20px}
+.footer .explore ul li {display: inline;margin: 10px;font-size:17px}
+.footer .explore a{color:#4C4E50}
+.footer .explore a:hover{color:#fff}
+.footer nav{margin:0}
+.footer nav ul{background:none;list-style: none;margin:0;padding:0;border:none;font-size: 13px;}
+.footer nav ul li{margin:0;padding:0;float:left;margin-right:10px;font-size: 13px;}
+.footer nav ul li a{margin:0;padding:0;background:none;color:#66B0FF;border:none;font-size: 13px;}
+.footer nav ul li a:hover{color:#fdfdfe;background:none;}
+.copyright{margin:0;color:#7E9FEA}
+.copyright a{color:#5e7c9d}
+.copyright a:hover{color:#fdfdfe}
+
+@media only screen and (min-width: 768px){.header1{width:100% !important}.header1 #inner-header{width:100% !important}
+.footer{position:relative;z-index:20}.footer .explore ul li {display: inline;margin: 10px}.footer .explore a{color:#4C4E50}.footer .explore a:hover{color:#fff;text-decoration: none;} .footer
+nav{margin-right:0px;float:right}
+}
+
